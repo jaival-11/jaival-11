@@ -10,7 +10,8 @@
 
 ### 🚀 About Me
 
-I am a passionate Android user. I may consider myself a bit of a power user and, like automation. I code to solve my problems.  
+I am a passionate Android user. I may consider myself a bit of a power user and, like automation. I code to solve my problems. I am still in the learning phase 📖
+  
 Fan of FOSS ✌️
 
 ⚡ &nbsp;Fun fact: **I am fan of sitcoms**
