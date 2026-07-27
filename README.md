@@ -27,13 +27,14 @@ Fan of FOSS ✌️
 ### 📊 GitHub Stats
 
 <p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=jaival-11&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jaival-11&show_icons=true&theme=tokyonight&title_color=0090ff&icon_color=0090ff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jaival-11&layout=compact&theme=tokyonight&title_color=0090ff&icon_color=0090ff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p>
+</p> 
 
 ### 📈 Contribution Graph
 
-<p align="center">
+<p align="center">  
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaival-11&bg_color=00000000&color=0090ff&line=0090ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
