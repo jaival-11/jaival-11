@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=430&height=44&lines=To%20code%20is%20my%20hobby;I've%20heard%20it%20both%20ways%20%F0%9F%8D%8D" alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=430&height=44&lines=To%20code%20is%20my%20hobby;I've%20heard%20it%20both%20ways" alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
