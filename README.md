@@ -15,11 +15,12 @@ I am a passionate Android user. I may consider myself a bit of a power user and,
 Fan of FOSS ✌️
 
 ⚡ &nbsp;Fun fact: **I am fan of sitcoms**  
-🔭 &nbsp;Working on: **Justalink**
+🔭 &nbsp;Working on: **[Justalink](https://github.com/jaival-11/justalink)**
 
 ### 🔗 Connect With Me
 
 <p align="left">
+  <a href="https://jaival-11.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-045e8a?style=for-the-badge&logo=brave&logoColor=white" alt="Portfolio" /></a>
   <a href="https://x.com/techironic11" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:jaival7909@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/techironic" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
@@ -47,3 +48,4 @@ Fan of FOSS ✌️
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/jaival-11">jaival-11</a></i></p>
+
