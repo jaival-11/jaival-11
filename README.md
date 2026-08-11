@@ -15,7 +15,6 @@ I am a passionate Android user. I may consider myself a bit of a power user and,
 Fan of FOSS ✌️
 
 ⚡ &nbsp;Fun fact: **I am fan of sitcoms**  
-🔭 &nbsp;Working on: **[Justalink](https://github.com/jaival-11/justalink)**
 
 ### 🔗 Connect With Me
 
