@@ -36,7 +36,7 @@ Fan of FOSS ✌️
 ### 📈 Contribution Graph
 
 <p align="center">  
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jaival-11&bg_color=00000000&color=0090ff&line=0090ff&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <img width="100%" src="dist/activity-graph.svg" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
