@@ -36,7 +36,7 @@ Fan of FOSS ✌️
 ### 📈 Contribution Graph
 
 <p align="center">  
-  <img width="100%" src="dist/activity-graph.svg" alt="activity graph" />
+  <img width="100%" src="https://github.com/jaival-11/jaival-11/blob/output/activity-graph.svg" alt="activity graph" />
 </p>
 
 ### 💭 Dev Quote
