@@ -22,7 +22,7 @@ Fan of FOSS ✌️
   <a href="https://jaival-11.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-045e8a?style=for-the-badge&logo=brave&logoColor=white" alt="Portfolio" /></a>
   <a href="https://x.com/techironic11" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="mailto:jaival7909@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/techironic" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/theironiccircle" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 ### 📊 GitHub Stats
