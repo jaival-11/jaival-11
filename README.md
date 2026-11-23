@@ -1,50 +1,23 @@
-<p align="center">
-  <a href="https://github.com/jaival-11">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0090ff&fontSize=54&height=90&width=730&text=Hello!%20%F0%9F%91%8B%20I'm%20Jaival" alt="Hello! 👋 I&#39;m Jaival" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=430&height=44&lines=To%20code%20is%20my%20hobby;I've%20heard%20it%20both%20ways" alt="Typing headlines" />
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Jaival"></picture>
 
-### 🚀 About Me
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="15.585%" alt=""></picture><a href="https://jaival-11.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="25.023%" alt="globe_asia"></picture></a><a href="https://x.com/techironic11"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="10.814%" alt="x"></picture></a><a href="mailto:jaival7909@gmail.com "><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="14.866%" alt="gmail"></picture></a><a href="https://t.me/theironiccircle"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-4-dark.svg"><img src="assets/social-4-light.svg" width="18.122%" alt="telegram"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="15.585%" alt=""></picture>
 
-I am a passionate Android user. I may consider myself a bit of a power user and, like automation. I code to solve my problems. I am still in the learning phase 📖
-  
-Fan of FOSS ✌️
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-⚡ &nbsp;Fun fact: **I am fan of sitcoms**  
+<a href="https://github.com/jaival-11/Sponsor-Skip"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-sponsor-skip-dark.svg"><img src="assets/project-sponsor-skip-light.svg" width="49%" alt="Sponsor-Skip"></picture></a>&nbsp;<a href="https://github.com/jaival-11/TeleWalls"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telewalls-dark.svg"><img src="assets/project-telewalls-light.svg" width="49%" alt="TeleWalls"></picture></a>
 
-### 🔗 Connect With Me
+<a href="https://github.com/jaival-11/justalink"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-justalink-dark.svg"><img src="assets/project-justalink-light.svg" width="49%" alt="justalink"></picture></a>&nbsp;<a href="https://github.com/jaival-11/lastfm-obsidian-plugin"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-lastfm-obsidian-plugin-dark.svg"><img src="assets/project-lastfm-obsidian-plugin-light.svg" width="49%" alt="lastfm-obsidian-plugin"></picture></a>
 
-<p align="left">
-  <a href="https://jaival-11.github.io" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-045e8a?style=for-the-badge&logo=brave&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://x.com/techironic11" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="mailto:jaival7909@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://t.me/theironiccircle" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-0088cc?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+<a href="https://github.com/jaival-11/Simple-File-Manager"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-simple-file-manager-dark.svg"><img src="assets/project-simple-file-manager-light.svg" width="49%" alt="Simple-File-Manager"></picture></a>&nbsp;<a href="https://github.com/jaival-11/wa-autoforward-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-wa-autoforward-bot-dark.svg"><img src="assets/project-wa-autoforward-bot-light.svg" width="49%" alt="wa-autoforward-bot"></picture></a>
 
-### 📊 GitHub Stats
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=jaival-11&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=jaival-11&show_icons=true&theme=tokyonight&title_color=0090ff&icon_color=0090ff&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=jaival-11&layout=compact&theme=tokyonight&title_color=0090ff&icon_color=0090ff&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-</p> 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-### 📈 Contribution Graph
+<a href="https://jaival-11.github.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/jaival-11?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
 
-<p align="center">  
-  <img width="100%" src="https://github.com/jaival-11/jaival-11/blob/output/activity-graph.svg" alt="activity graph" />
-</p>
+<a href="https://metawka.github.io/expressive-profile/?from=jaival-11"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-### 💭 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
-</p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/jaival-11">jaival-11</a></i></p>
-
+</div>

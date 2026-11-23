@@ -1,0 +1,172 @@
+{
+  "version": 1,
+  "login": "jaival-11",
+  "seed": "#EDF7F7",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "stack",
+    "streak"
+  ],
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Jaival",
+    "subtitle": "To code is my hobby",
+    "typing": true,
+    "avatarShape": "soft",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Earth"
+      },
+      {
+        "icon": "bolt",
+        "label": "Fan of sitcoms"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Hobby Developer"
+      },
+      {
+        "icon": "palette",
+        "label": "Into Material Design"
+      },
+      {
+        "icon": "rocket_launch",
+        "label": "I I code to solve my problems. I am still in the learning phase 📖"
+      },
+      {
+        "icon": "favorite",
+        "label": "FOSS supporter"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:typescript",
+            "label": "TypeScript"
+          },
+          {
+            "icon": "brand:react",
+            "label": "React"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:figma",
+            "label": "Figma"
+          },
+          {
+            "icon": "brand:githubactions",
+            "label": "GitHub Actions"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [
+      "Sponsor-Skip",
+      "TeleWalls",
+      "justalink",
+      "lastfm-obsidian-plugin",
+      "Simple-File-Manager",
+      "wa-autoforward-bot"
+    ],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "globe_asia",
+        "url": "https://jaival-11.github.io/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/techironic11"
+      },
+      {
+        "icon": "brand:gmail",
+        "url": "mailto:jaival7909@gmail.com "
+      },
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/theironiccircle"
+      }
+    ],
+    "variant": "chip",
+    "fill": "tonal",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "language",
+        "label": "My website",
+        "url": "https://jaival-11.github.io/",
+        "style": "filled"
+      },
+      {
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "https://github.com/jaival-11?tab=repositories",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
