@@ -1,0 +1,423 @@
+{
+ "key": "75f40d65",
+ "stars": 70,
+ "contributions": 753,
+ "repos": 17,
+ "followers": 9,
+ "languages": [
+  [
+   "Kotlin",
+   1081209
+  ],
+  [
+   "JavaScript",
+   192495
+  ],
+  [
+   "HTML",
+   61954
+  ],
+  [
+   "TypeScript",
+   37619
+  ],
+  [
+   "CSS",
+   19173
+  ],
+  [
+   "AIDL",
+   552
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 23,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 29
+ },
+ "pins": [
+  {
+   "name": "Sponsor-Skip",
+   "url": "https://github.com/jaival-11/Sponsor-Skip",
+   "text": "SponsorBlock for native android - no mod, no root needed",
+   "fork": false,
+   "stars": 28,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "sponsorblock",
+    "adblock",
+    "adblocker",
+    "sponsored-segments",
+    "youtube",
+    "youtube-video",
+    "youtube-videos",
+    "kotlin",
+    "kotlin-android"
+   ]
+  },
+  {
+   "name": "TeleWalls",
+   "url": "https://github.com/jaival-11/TeleWalls",
+   "text": "Your personal wallpaper gallery using Telegram as cloud storage",
+   "fork": false,
+   "stars": 17,
+   "language": "Kotlin",
+   "topics": [
+    "customization",
+    "tdlib",
+    "telegram",
+    "wallpaper-theme",
+    "android",
+    "android-app",
+    "android-application"
+   ]
+  },
+  {
+   "name": "justalink",
+   "url": "https://github.com/jaival-11/justalink",
+   "text": "Linkinbio that lives inside the address bar",
+   "fork": false,
+   "stars": 14,
+   "language": "JavaScript",
+   "topics": [
+    "linkinbio",
+    "linkinbio-alternative"
+   ]
+  },
+  {
+   "name": "lastfm-obsidian-plugin",
+   "url": "https://github.com/jaival-11/lastfm-obsidian-plugin",
+   "text": "Seamlessly fetches scrobbles, artists, albums and cover art from Last.fm and auto creates notes with properties which can be directly used in Base.",
+   "fork": false,
+   "stars": 5,
+   "language": "TypeScript",
+   "topics": [
+    "lastfm",
+    "obsidian",
+    "obsidian-plugin",
+    "scrobbles",
+    "albums",
+    "artists",
+    "music",
+    "songs",
+    "sync",
+    "tracks"
+   ]
+  },
+  {
+   "name": "Simple-File-Manager",
+   "url": "https://github.com/jaival-11/Simple-File-Manager",
+   "text": "No bloat simple file manager",
+   "fork": false,
+   "stars": 5,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "file-manager",
+    "minimal",
+    "nobloat",
+    "simple",
+    "android-app",
+    "android-application"
+   ]
+  },
+  {
+   "name": "wa-autoforward-bot",
+   "url": "https://github.com/jaival-11/wa-autoforward-bot",
+   "text": "A headless WhatsApp auto forwarding bot designed to run natively on Android via Termux. Features a Web UI for easy configuration and a Telegram logging system for network monitoring, critical alerts and status updates",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "Sponsor-Skip",
+   "url": "https://github.com/jaival-11/Sponsor-Skip",
+   "text": "SponsorBlock for native android - no mod, no root needed",
+   "fork": false,
+   "stars": 28,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "sponsorblock",
+    "adblock",
+    "adblocker",
+    "sponsored-segments",
+    "youtube",
+    "youtube-video",
+    "youtube-videos",
+    "kotlin",
+    "kotlin-android"
+   ]
+  },
+  {
+   "name": "TeleWalls",
+   "url": "https://github.com/jaival-11/TeleWalls",
+   "text": "Your personal wallpaper gallery using Telegram as cloud storage",
+   "fork": false,
+   "stars": 17,
+   "language": "Kotlin",
+   "topics": [
+    "customization",
+    "tdlib",
+    "telegram",
+    "wallpaper-theme",
+    "android",
+    "android-app",
+    "android-application"
+   ]
+  },
+  {
+   "name": "justalink",
+   "url": "https://github.com/jaival-11/justalink",
+   "text": "Linkinbio that lives inside the address bar",
+   "fork": false,
+   "stars": 14,
+   "language": "JavaScript",
+   "topics": [
+    "linkinbio",
+    "linkinbio-alternative"
+   ]
+  },
+  {
+   "name": "lastfm-obsidian-plugin",
+   "url": "https://github.com/jaival-11/lastfm-obsidian-plugin",
+   "text": "Seamlessly fetches scrobbles, artists, albums and cover art from Last.fm and auto creates notes with properties which can be directly used in Base.",
+   "fork": false,
+   "stars": 5,
+   "language": "TypeScript",
+   "topics": [
+    "lastfm",
+    "obsidian",
+    "obsidian-plugin",
+    "scrobbles",
+    "albums",
+    "artists",
+    "music",
+    "songs",
+    "sync",
+    "tracks"
+   ]
+  },
+  {
+   "name": "Simple-File-Manager",
+   "url": "https://github.com/jaival-11/Simple-File-Manager",
+   "text": "No bloat simple file manager",
+   "fork": false,
+   "stars": 5,
+   "language": "Kotlin",
+   "topics": [
+    "android",
+    "file-manager",
+    "minimal",
+    "nobloat",
+    "simple",
+    "android-app",
+    "android-application"
+   ]
+  },
+  {
+   "name": "morphe-manager",
+   "url": "https://github.com/jaival-11/morphe-manager",
+   "text": "Morphe app patcher for Android",
+   "fork": true,
+   "stars": 1,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "wa-autoforward-bot",
+   "url": "https://github.com/jaival-11/wa-autoforward-bot",
+   "text": "A headless WhatsApp auto forwarding bot designed to run natively on Android via Termux. Features a Web UI for easy configuration and a Telegram logging system for network monitoring, critical alerts and status updates",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "LastWave-Native",
+   "url": "https://github.com/jaival-11/LastWave-Native",
+   "text": "A High-Resolution Lossless Music Streaming & Player with Real-Time Synced Lyrics & Smart Discovery for Android, built with Material 3 Expressive design.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "grab-n-build-APK-action",
+   "url": "https://github.com/jaival-11/grab-n-build-APK-action",
+   "text": "Build, sign and release APKs with Github Actions for any android project without forking source repos",
+   "fork": true,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "TeleDrive",
+   "url": "https://github.com/jaival-11/TeleDrive",
+   "text": "Turn a private Telegram channel into your personal cloud drive. Android + Windows, auto backup, optional E2E encryption, built-in file manager and player.",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "blocklist-sentinel",
+   "url": "https://github.com/jaival-11/blocklist-sentinel",
+   "text": "Checks domains against popular blocklists and sends a consolidated Telegram report.",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "jaival-11.github.io",
+   "url": "https://github.com/jaival-11/jaival-11.github.io",
+   "text": "My landing page",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "jaival-11",
+   "url": "https://github.com/jaival-11/jaival-11",
+   "text": "About myself, and some fun",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "auto-5g",
+   "url": "https://github.com/jaival-11/auto-5g",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "motion-sickness-app",
+   "url": "https://github.com/jaival-11/motion-sickness-app",
+   "text": "stop motion sickness",
+   "fork": true,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "ObtainX",
+   "url": "https://github.com/jaival-11/ObtainX",
+   "text": "Get Android app updates straight from the source. And install it any way you want.",
+   "fork": true,
+   "stars": 0,
+   "language": "Dart",
+   "topics": []
+  },
+  {
+   "name": "LastWave",
+   "url": "https://github.com/jaival-11/LastWave",
+   "text": "A last.fm playlist generator",
+   "fork": true,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  }
+ ]
+}
